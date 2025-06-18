@@ -13,9 +13,9 @@ This is a Flask-based API designed for tracking heroes and their superpowers. Th
 
 - Data validation rules for model integrity:
 
-  - HeroPower.strength must be: Strong, Weak, or Average
+- HeroPower.strength must be: Strong, Weak, or Average
 
-  - Power.description must be present and at least 20 characters
+- Power.description must be present and at least 20 characters
 
 ## 🛠️ Setup Instructions
 
@@ -23,7 +23,7 @@ This is a Flask-based API designed for tracking heroes and their superpowers. Th
 
 ```bash
 git clone https://github.com/Esther-pixel31/superheroes.git
-cd Superheroes
+cd superheroes
 ```
 
 2. Create and activate a virtual environment
